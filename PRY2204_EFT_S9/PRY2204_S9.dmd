@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PRY2204_S9" id="B91622B9-C756-ECB3-1447-C49403E3CE69" version="3.5">
+<createdBy>Fran</createdBy>
+<createdTime>2026-10-10 23:04:21 UTC</createdTime>
+<ownerDesignName>modelo_ANFP</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B91622B9-C756-ECB3-1447-C49403E3CE69</designId>
+</OSDM_Design>
